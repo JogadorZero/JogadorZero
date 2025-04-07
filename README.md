@@ -16,6 +16,25 @@ Sou apaixonado por jogos, códigos limpos e soluções criativas que impactam o 
 
 ---
 
+## 📦 Alguns dos meus projetos
+
+| Projeto | Descrição | Status |
+|--------|-----------|--------|
+| `placar-jogos` | Webservice que exibe placar de jogos ao vivo com API externa | 🟢 Finalizado |
+| `portfolio-react` | Meu portfólio pessoal com React e Tailwind | 🛠️ Em andamento |
+| `stream-notifier` | Integração do YouTube com alertas para lives | 🧪 Em testes |
+
+🔗 Confira mais nos meus repositórios!
+
+---
+
+## 🕹️ Let's Play!
+
+Se você curte código, games e um pouco de criatividade no caminho…  
+**siga o JogadorZero!** Bora zerar essa fase juntos?
+
+---
+
 ## 🔧 Minhas Skills
 
 ```js
@@ -25,3 +44,14 @@ const skills = {
   ferramentas: ["Git", "Docker", "VSCode", "Figma"],
   hobbies: ["Games", "Edição de Vídeos", "Lives", "Conteúdo Cristão"]
 }
+
+
+- 📺 [Canal Player Zero no YouTube](https://youtube.com/@PlayerZero)
+- 📷 [Instagram](https://instagram.com/shama4realz)
+- 📫 **Contato:** jogadorzero.dev@gmail.com
+
+---
+
+> “Deus é o meu checkpoint diário. Não jogo sem Ele.”
+
+🖤 Powered by café, fé e código.
