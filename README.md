@@ -55,3 +55,5 @@ Se você curte código, games e um pouco de criatividade no caminho…
 > “Deus é o meu checkpoint diário. Não jogo sem Ele.”
 
 🖤 Powered by café, fé e código.
+
+![🎮 Visitantes](https://api.visitorbadge.io/api/visitors?path=JogadorZero&label=🎮%20Jogadores%20online&countColor=%23263759&style=flat&labelColor=%23f97316)
