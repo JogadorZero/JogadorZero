@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🎮 JogadorZero — Player One in Code Mode
 
-<!--
-**JogadorZero/JogadorZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Start with zero, build to infinity."
 
-Here are some ideas to get you started:
+![banner](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 Quem sou eu?
+
+Olá! Eu sou o **JogadorZero**, um dev que começou no nível 0, mas com XP infinito pra evoluir.  
+Sou apaixonado por jogos, códigos limpos e soluções criativas que impactam o mundo real.
+
+- 💻 Estudante de Engenharia da Computação  
+- 🎮 Youtuber Gamer & Criador de Conteúdo  
+- 🚀 Em constante evolução no Front-End, Back-End e além  
+- 🧠 Fã de boas práticas, design patterns e arquitetura de software  
+
+---
+
+## 🔧 Minhas Skills
+
+```js
+const skills = {
+  linguagens: ["JavaScript", "TypeScript", "HTML", "CSS", "Pascal", "Delphi", "Java"],
+  frameworks: ["React", "Spring Boot", "Node.js"],
+  ferramentas: ["Git", "Docker", "VSCode", "Figma"],
+  hobbies: ["Games", "Edição de Vídeos", "Lives", "Conteúdo Cristão"]
+}
