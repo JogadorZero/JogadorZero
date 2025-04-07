@@ -2,7 +2,7 @@
 
 > "Start with zero, build to infinity."
 
-![banner](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)
+![banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 👾 Quem sou eu?
 
