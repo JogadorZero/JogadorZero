@@ -47,8 +47,8 @@ Se você curte código, games e um pouco de criatividade no caminho…
 **siga o JogadorZero!** Bora zerar essa fase juntos?
 
 - 📺 [Canal Player Zero no YouTube](https://youtube.com/@PlayerZero)
-- 📷 [Instagram](https://instagram.com/shama4realz)
-- 📫 **Contato:** jogadorzero.dev@gmail.com
+- 📷 [Instagram](https://instagram.com/playerzerolag)
+- 📫 **Contato:** comercialplayerzero@gmail.com
 
 ---
 
