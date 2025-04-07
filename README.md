@@ -16,6 +16,19 @@ Sou apaixonado por jogos, códigos limpos e soluções criativas que impactam o 
 
 ---
 
+## 🔧 Minhas Skills
+
+```js
+const skills = {
+  linguagens: ["JavaScript", "TypeScript", "HTML", "CSS", "Pascal", "Delphi", "Java"],
+  frameworks: ["React", "Spring Boot", "Node.js"],
+  ferramentas: ["Git", "Docker", "VSCode", "Figma"],
+  hobbies: ["Games", "Edição de Vídeos", "Lives", "Conteúdo Cristão"]
+}
+```
+
+---
+
 ## 📦 Alguns dos meus projetos
 
 | Projeto | Descrição | Status |
@@ -32,19 +45,6 @@ Sou apaixonado por jogos, códigos limpos e soluções criativas que impactam o 
 
 Se você curte código, games e um pouco de criatividade no caminho…  
 **siga o JogadorZero!** Bora zerar essa fase juntos?
-
----
-
-## 🔧 Minhas Skills
-
-```js
-const skills = {
-  linguagens: ["JavaScript", "TypeScript", "HTML", "CSS", "Pascal", "Delphi", "Java"],
-  frameworks: ["React", "Spring Boot", "Node.js"],
-  ferramentas: ["Git", "Docker", "VSCode", "Figma"],
-  hobbies: ["Games", "Edição de Vídeos", "Lives", "Conteúdo Cristão"]
-}
-
 
 - 📺 [Canal Player Zero no YouTube](https://youtube.com/@PlayerZero)
 - 📷 [Instagram](https://instagram.com/shama4realz)
